@@ -1,4 +1,5 @@
-#Instagram Likes: Classification vs. Regression
+# Instagram Likes: Classification vs. Regression
+
 Developed a machine learning/deep learning - based model to predict/classify the number of likes of an Instagram post.
 
 Code: instagram_project.py
